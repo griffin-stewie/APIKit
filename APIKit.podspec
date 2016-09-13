@@ -33,5 +33,5 @@ Pod::Spec.new do |s|
     LICENSE
   }
 
-  s.dependency "Result", "~> 2.1.1"
+  s.dependency "Result", "~> 3.0.0"
 end
